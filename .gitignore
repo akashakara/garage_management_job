@@ -1,0 +1,43 @@
+# === Global ignores ===
+*.log
+*.class
+*.jar
+*.war
+*.iml
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# === Node.js Frontend ===
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.next/
+frontend/.cache/
+
+# === Spring Boot Backend ===
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.env
+
+# === IntelliJ IDEA ===
+.idea/
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
+
+# === VSCode ===
+.vscode/
+
+# === MacOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
