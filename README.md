@@ -4,10 +4,11 @@ This repository contains a full stack garage management application with a Sprin
 
 The project is structured as follows:
 
-/
-├── backend/      # Spring Boot application
-├── frontend/     # React application
+├── backend/  
+├── frontend/  
 ├── README.md
+
+
 🚀 Getting Started
 You can run the backend and frontend separately using the following instructions.
 
