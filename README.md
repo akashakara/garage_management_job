@@ -44,5 +44,3 @@ You can find a compressed version of this project under the Releases section of 
 
 Download the latest release, extract it, and follow the instructions above to run the project.
 
-📝 License
-This project is open source and available under the MIT License (update if you’re using another license).
